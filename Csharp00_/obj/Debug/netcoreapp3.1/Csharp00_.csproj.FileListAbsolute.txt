@@ -1,0 +1,13 @@
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\bin\Debug\netcoreapp3.1\Csharp00_.exe
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\bin\Debug\netcoreapp3.1\Csharp00_.deps.json
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\bin\Debug\netcoreapp3.1\Csharp00_.runtimeconfig.json
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\bin\Debug\netcoreapp3.1\Csharp00_.runtimeconfig.dev.json
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\bin\Debug\netcoreapp3.1\Csharp00_.dll
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\bin\Debug\netcoreapp3.1\Csharp00_.pdb
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\obj\Debug\netcoreapp3.1\Csharp00_.csprojAssemblyReference.cache
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\obj\Debug\netcoreapp3.1\Csharp00_.AssemblyInfoInputs.cache
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\obj\Debug\netcoreapp3.1\Csharp00_.AssemblyInfo.cs
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\obj\Debug\netcoreapp3.1\Csharp00_.csproj.CoreCompileInputs.cache
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\obj\Debug\netcoreapp3.1\Csharp00_.dll
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\obj\Debug\netcoreapp3.1\Csharp00_.pdb
+C:\Users\pedro.martins\Desktop\Curso C#\Csharp00_\obj\Debug\netcoreapp3.1\Csharp00_.genruntimeconfig.cache
